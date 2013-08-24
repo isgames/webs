@@ -1,0 +1,8 @@
+					<li><a class="infolist" title="Dell and VMware launch cloud infrastructure services" href="/html/en/index.php?ac=article&at=read&did=55">Dell and VMware launch cloud infrastructure services</a></li>
+										<li><a class="infolist" title="Bahrain Telecom CEO replaced senior management to adjust" href="/html/en/index.php?ac=article&at=read&did=54">Bahrain Telecom CEO replaced senior management to adjust</a></li>
+										<li><a class="infolist" title="Google CEO Larry Page: Google played only a 1% potential" href="/html/en/index.php?ac=article&at=read&did=53">Google CEO Larry Page: Google played only a 1% potential</a></li>
+										<li><a class="infolist" title="Yahoo CEO Bartz passed in 2013 leaving no intention to seek re-election" href="/html/en/index.php?ac=article&at=read&did=52">Yahoo CEO Bartz passed in 2013 leaving no intention to seek re-election</a></li>
+										<li><a class="infolist" title="Steve: I really care about Apple" href="/html/en/index.php?ac=article&at=read&did=51">Steve: I really care about Apple</a></li>
+										<li><a class="infolist" title="HTC's new Chief Innovation Officer: user experience is more important than technology" href="/html/en/index.php?ac=article&at=read&did=50">HTC's new Chief Innovation Officer: user experience is more important than technology</a></li>
+										<li><a class="infolist" title="More details of Windows 8 exposure: the menu features more intuitive" href="/html/en/index.php?ac=article&at=read&did=46">More details of Windows 8 exposure: the menu features more intuitive</a></li>
+					

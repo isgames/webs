@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+@charset "utf-8";
+* {
+	padding:0;
+	margin:0;
+	border:none;
+	text-decoration:none;
+	list-style:none;
+	overflow:hidden;
+}
+input, button, select, textarea {
+	outline:none;
+}
+textarea {
+	font-size:13px;
+	resize:none;
+}
+#main{
+	width:1024px;
+	height:500px;
+	position:relative;
+	left:50%;
+	margin-left:-500px;
+	margin-top:70px;
+}
+#picbox{
+	width:4800px;
+	height:500px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.pics{
+	width:1024px;
+	height:500px;
+	float:left;
+}
+#pic1{
+	background:url(../images/main.jpg);
+}
+#pic2{
+	background:url(http://3gimg.qq.com/images/3gqq/ad_yuetu.jpg);
+}
+#pic3{
+	background:url(http://3gimg.qq.com/images/3gqq/ad_nba.jpg);
+}
+#pic4{
+	background:url(http://3gimg.qq.com/images/3gqq/ad_stock.jpg);
+}
+#pic5{
+	background:url(http://3gimg.qq.com/images/3gqq/ad_auto.jpg);
+}
+#pic6{
+	background:url(http://3gimg.qq.com/images/3gqq/ad_home.jpg);
+}
+#nav{
+	width:200px;
+	height:22px;
+	position:absolute;
+	bottom:10px;
+	left:400px;
+}
+.anvli{
+	width:18px;
+	height:16px;
+	float:left;
+	margin-right:8px;
+	cursor:pointer;
+	background:url(http://3gimg.qq.com/images/3gqq/dot.png) 0px -16px;
+}
+.navnow{
+	background:url(http://3gimg.qq.com/images/3gqq/dot.png) 0px 0px;
+}
+.hbut{
+	width:60px;
+	height:90px;
+	position:absolute;
+	top:180px;
+	cursor:pointer;
+}
+#pre{
+	left:0px;
+	background:url(http://3gimg.qq.com/images/3gqq/ad_ctr.png) 0px 0px no-repeat;
+}
+#next{
+	right:0px;
+	background:url(http://3gimg.qq.com/images/3gqq/ad_ctr.png) 0px -90px no-repeat;
+}

@@ -1,0 +1,1 @@
+上一篇：<a title="巴林电信调整高管层 更换CEO" href="http://www.etomsg.com/index.php?ac=article&at=read&did=20">巴林电信调整高管层 更换CEO</a>
