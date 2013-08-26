@@ -14,6 +14,16 @@
 		<div id="header">
 			<div id="logo">
 			</div>
+			<div id="hconnect">
+					<div id="hheader">
+						<span><a href ="http://localhost/webs">首&nbsp;页</a></span>
+						<span>&nbsp;|&nbsp;</span>
+						<span><a  href="javascript:;" onClick="window.external.AddFavorite(location.href,document.title)">加入收藏</a></span>
+					</div >
+					<div id="hfooter">
+						<span>联系方式 ：</span><span>11111</span>
+					</div>
+			</div>
 		</div>
 		<div id="mypicture"></div>
 		<div id="menu">
@@ -35,6 +45,9 @@
 <div>111</div>
 
 	<div id="footer">
-		底部        </div>
+		<div id ="fcontent">
+				1
+		</div>
+	</div>
     </body>
 </html>

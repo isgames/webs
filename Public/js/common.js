@@ -6,8 +6,8 @@ $(function(){
 
 $(function(){
 	var localhref =document.location.href;
-	var flag =localhref.match("index.php/Index");
-	if(flag !=null){
+	var flag =localhref.match("/index.php/");
+	if(flag ==null){
 			$("#mypicture").show();
 			setTimeout(function(){$("#mypicture").hide();},2000);
 	}
